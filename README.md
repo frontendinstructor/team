@@ -14,5 +14,4 @@
 + [Liely Bullock](https://github.com/lielybullock)
 + [Artemij Fedosejev](https://github.com/frontendinstructor)
 + [Marta Korowaj](https://github.com/stuffedmice)
-
-
++ [Charlie Davison](https://github.com/charliedavison96)
