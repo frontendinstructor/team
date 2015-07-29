@@ -1,3 +1,3 @@
 # The Front End Engineering Team
 
-+ [Artemij Fedosejev](https://github.com/frontendinstructor)
++ [Liely Bullock](https://github.com/lielybullock)
