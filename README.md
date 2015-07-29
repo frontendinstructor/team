@@ -1,13 +1,32 @@
 # The Front End Engineering Team
 
-<<<<<<< HEAD
-+ [Ibrahim Sowunmi](https://github.com/ibrahimsow1)
-=======
-+ [Liely Bullock](https://github.com/lielybullock)
 + [Artemij Fedosejev](https://github.com/frontendinstructor)
-<<<<<<< HEAD
+
++ [Alice Freeman](https://github.com/A-Cr38tive)
+
++ [Ibrahim Sowunmi](https://github.com/ibrahimsow1)
+
++ [Marta  Korowaj](https://github.com/stuffedmice)
+
+
++ [Ibrahim Sowunmi](https://github.com/ibrahimsow1)
+
++ [Liely Bullock](https://github.com/lielybullock)
+
++ [Artemij Fedosejev](https://github.com/frontendinstructor)
+
 + [Marta Korowaj] (https://github.com/stuffedmice)
-[Daryl Percival](https://github.com/darylpercival)
-=======
+
++ [Daryl Percival](https://github.com/darylpercival)
+
 + [Marta Korowaj](https://github.com/stuffedmice)
->>>>>>> 2e800add99ea28d54a2639420e204ed784c8af69
+
+
+
++ [Marta Korowaj](https://github.com/stuffedmice)
+
++ [Charlie Davison](https://github.com/charliedavison96)
+
+
+
+
