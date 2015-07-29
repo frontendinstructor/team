@@ -33,12 +33,21 @@
 + [Artemij Fedosejev](https://github.com/frontendinstructor)
 
 
+
 + [Marta Korowaj] (https://github.com/stuffedmice)
 
 + [Daryl Percival](https://github.com/darylpercival)
 
+
++ [Marta Korowaj] (https://github.com/stuffedmice)
++ [Michael Crockett](https://github.com/Crocketter)
 + [Marta Korowaj](https://github.com/stuffedmice)
 
 + [Marta Korowaj](https://github.com/stuffedmice)
 
++ [Marta Korowaj](https://github.com/stuffedmice)
+
++ [Charlie Davison](https://github.com/charliedavison96)
++ [Michael Crockett](https://github.com/Crocketter)
++ [Marta Korowaj](https://github.com/stuffedmice)
 + [Charlie Davison](https://github.com/charliedavison96)
