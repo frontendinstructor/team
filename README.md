@@ -1,7 +1,5 @@
 # The Front End Engineering Team
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 + [Liely Bullock](https://github.com/lielybullock)
 
