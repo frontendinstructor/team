@@ -1,2 +1,3 @@
-# team
-Front End Engineering Team
+# The Front End Engineering Team
+
++ [Artemij Fedosejev](https://github.com/frontendinstructor)
